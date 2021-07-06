@@ -1,0 +1,30 @@
+.carousel-item{
+    background-color: #fceae8;
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+.price{
+    color: #f1234c;
+}
+.btn{
+    background-image: linear-gradient(0deg,#f1302a,#ee0b38);
+}
+.cat-1{
+    background-color: orange;
+    border-radius: 20px;
+}
+.cat-2{
+    background-color: palevioletred;
+    border-radius: 20px;
+}
+.cat-3{
+    background-color: blue;
+    border-radius: 20px;
+}
+.categories img{
+    max-width: 150px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+}
